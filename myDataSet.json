@@ -1,0 +1,212 @@
+[
+    {
+        "nome": "Ana",
+        "sexo": "Feminino",
+        "idade": 25,
+        "nota_filme": 4.5,
+        "critica": "Adorei o filme! Ótimos efeitos especiais e uma história envolvente."
+    },
+    {
+        "nome": "João",
+        "sexo": "Masculino",
+        "idade": 30,
+        "nota_filme": 3.8,
+        "critica": "Achei o filme razoável, esperava mais da trama."
+    },
+    {
+        "nome": "Maria",
+        "sexo": "Feminino",
+        "idade": 22,
+        "nota_filme": 4.2,
+        "critica": "Gostei bastante, mas achei o final previsível."
+    },
+    {
+        "nome": "Pedro",
+        "sexo": "Masculino",
+        "idade": 28,
+        "nota_filme": 4.7,
+        "critica": "Excelente filme! Recomendo a todos."
+    },
+    {
+        "nome": "Laura",
+        "sexo": "Feminino",
+        "idade": 35,
+        "nota_filme": 3.5,
+        "critica": "Não me agradou muito, achei a atuação dos atores fraca."
+    },
+    {
+        "nome": "Rafael",
+        "sexo": "Masculino",
+        "idade": 40,
+        "nota_filme": 4.0,
+        "critica": "Bom entretenimento, mas alguns momentos foram clichês demais."
+    },
+    {
+        "nome": "Camila",
+        "sexo": "Feminino",
+        "idade": 27,
+        "nota_filme": 4.9,
+        "critica": "Fantástico! Mal posso esperar pela sequência."
+    },
+    {
+        "nome": "Lucas",
+        "sexo": "Masculino",
+        "idade": 33,
+        "nota_filme": 3.9,
+        "critica": "Gostei do filme, mas achei a trama um pouco confusa."
+    },
+    {
+        "nome": "Juliana",
+        "sexo": "Feminino",
+        "idade": 29,
+        "nota_filme": 4.3,
+        "critica": "Um dos melhores filmes que já vi, emocionante do começo ao fim."
+    },
+    {
+        "nome": "Fernando",
+        "sexo": "Masculino",
+        "idade": 45,
+        "nota_filme": 4.5,
+        "critica": "Muito bom! Vale a pena assistir."
+    },
+    {
+        "nome": "Carolina",
+        "sexo": "Feminino",
+        "idade": 31,
+        "nota_filme": 3.7,
+        "critica": "Achei o filme mediano, esperava mais da história."
+    },
+    {
+        "nome": "Gabriel",
+        "sexo": "Masculino",
+        "idade": 26,
+        "nota_filme": 4.8,
+        "critica": "Incrível! Uma mistura perfeita de ação e emoção."
+    },
+    {
+        "nome": "Mariana",
+        "sexo": "Feminino",
+        "idade": 24,
+        "nota_filme": 4.6,
+        "critica": "Surpreendente! Não consegui desgrudar os olhos da tela."
+    },
+    {
+        "nome": "Antônio",
+        "sexo": "Masculino",
+        "idade": 36,
+        "nota_filme": 4.2,
+        "critica": "Bom filme, mas poderia ter mais desenvolvimento dos personagens."
+    },
+    {
+        "nome": "Patrícia",
+        "sexo": "Feminino",
+        "idade": 32,
+        "nota_filme": 3.8,
+        "critica": "Esperava mais do enredo, achei um pouco previsível."
+    },
+    {
+        "nome": "Diego",
+        "sexo": "Masculino",
+        "idade": 28,
+        "nota_filme": 4.4,
+        "critica": "Ótima produção, merece todos os elogios."
+    },
+    {
+        "nome": "Tatiane",
+        "sexo": "Feminino",
+        "idade": 27,
+        "nota_filme": 4.1,
+        "critica": "Interessante, mas faltou um pouco de profundidade na história."
+    },
+    {
+        "nome": "Marcelo",
+        "sexo": "Masculino",
+        "idade": 39,
+        "nota_filme": 4.3,
+        "critica": "Gostei bastante, mas achei algumas partes arrastadas."
+    },
+    {
+        "nome": "Renata",
+        "sexo": "Feminino",
+        "idade": 30,
+        "nota_filme": 4.7,
+        "critica": "Fantástico! Recomendo a todos os fãs de filmes de super-heróis."
+    },
+    {
+        "nome": "Felipe",
+        "sexo": "Masculino",
+        "idade": 29,
+        "nota_filme": 4.6,
+        "critica": "Muito bom, valeu cada centavo do ingresso."
+    },
+    {
+        "nome": "Isabela",
+        "sexo": "Feminino",
+        "idade": 26,
+        "nota_filme": 4.9,
+        "critica": "Simplesmente maravilhoso! Mal posso esperar para ver de novo."
+    },
+    {
+        "nome": "André",
+        "sexo": "Masculino",
+        "idade": 34,
+        "nota_filme": 4.5,
+        "critica": "Um filme épico, cheio de ação e emoção."
+    },
+    {
+        "nome": "Carla",
+        "sexo": "Feminino",
+        "idade": 33,
+        "nota_filme": 3.6,
+        "critica": "Não me impressionou muito, esperava mais da trama."
+    },
+    {
+        "nome": "Guilherme",
+        "sexo": "Masculino",
+        "idade": 31,
+        "nota_filme": 4.0,
+        "critica": "Bom filme, mas nada de extraordinário."
+    },
+    {
+        "nome": "Vanessa",
+        "sexo": "Feminino",
+        "idade": 28,
+        "nota_filme": 4.7,
+        "critica": "Emocionante! Um dos melhores filmes que já vi."
+    },
+    {
+        "nome": "Luciana",
+        "sexo": "Feminino",
+        "idade": 36,
+        "nota_filme": 4.2,
+        "critica": "Gostei bastante, mas achei o vilão um pouco clichê."
+    },
+    {
+        "nome": "Rodrigo",
+        "sexo": "Masculino",
+        "idade": 35,
+        "nota_filme": 4.4,
+        "critica": "Muito bom! Vale a pena assistir no cinema."
+    },
+    {
+        "nome": "Beatriz",
+        "sexo": "Feminino",
+        "idade": 27,
+        "nota_filme": 4.3,
+        "critica": "Interessante, mas esperava mais do desenvolvimento dos personagens."
+    },
+    {
+        "nome": "Hugo",
+        "sexo": "Masculino",
+        "idade": 32,
+        "nota_filme": 4.6,
+        "critica": "Fantástico! Mal posso esperar pela continuação."
+    },
+    {
+        "nome": "Patrícia",
+        "sexo": "Feminino",
+        "idade": 29,
+        "nota_filme": 4.8,
+        "critica": "Incrível! Superou todas as minhas expectativas."
+    }
+]
